@@ -1,3 +1,6 @@
+# NOTICE: This airport is currently being worked on, it is in no means working or finished.  Download at your own risk.
+
+
 # CZUM - Churchill Falls Airport
 #### Author: Julysfire
 Discord: julysfire#9465        MSFS2020: blackflame0729
