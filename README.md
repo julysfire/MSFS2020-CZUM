@@ -1,4 +1,4 @@
-# NOTICE: This airport is currently being worked on, it is in no means working or finished.  Download at your own risk.
+# NOTICE: This airport is currently being worked on, it is in no means working or finished.  A release will be included when complete.  For now, Download at your own risk.
 
 
 # CZUM - Churchill Falls Airport
