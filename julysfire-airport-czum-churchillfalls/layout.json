@@ -1,19 +1,29 @@
 {
   "content": [
     {
-      "path": "CGL/030/sai300.cgl",
-      "size": 65440361,
-      "date": 132447878715834928
+      "path": "scenery/global/scenery/modelLib.BGL",
+      "size": 1197614,
+      "date": 132453164093724419
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/CZUMCOLOR.PNG.DDS",
+      "size": 89478640,
+      "date": 132453164092162970
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/CZUMCOLOR.PNG.DDS.json",
+      "size": 119,
+      "date": 132453164091297871
     },
     {
       "path": "scenery/world/scenery/CZUMPOLYS.BGL",
-      "size": 49528,
-      "date": 132447878721095831
+      "size": 57340,
+      "date": 132453164098779025
     },
     {
       "path": "scenery/world/scenery/objects.bgl",
-      "size": 18882,
-      "date": 132447878717347380
+      "size": 40794,
+      "date": 132453164094465097
     }
   ]
 }
