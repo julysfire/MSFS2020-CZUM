@@ -1,29 +1,34 @@
 {
   "content": [
     {
+      "path": "manifest.json",
+      "size": 299,
+      "date": 132454360713243785
+    },
+    {
       "path": "scenery/global/scenery/modelLib.BGL",
-      "size": 1197614,
-      "date": 132453164093724419
+      "size": 1201582,
+      "date": 132454360707962738
     },
     {
       "path": "scenery/global/scenery/TEXTURE/CZUMCOLOR.PNG.DDS",
       "size": 89478640,
-      "date": 132453164092162970
+      "date": 132453691270674147
     },
     {
       "path": "scenery/global/scenery/TEXTURE/CZUMCOLOR.PNG.DDS.json",
       "size": 119,
-      "date": 132453164091297871
+      "date": 132453691269763320
     },
     {
       "path": "scenery/world/scenery/CZUMPOLYS.BGL",
-      "size": 57340,
-      "date": 132453164098779025
+      "size": 77458,
+      "date": 132454483431406494
     },
     {
       "path": "scenery/world/scenery/objects.bgl",
-      "size": 40794,
-      "date": 132453164094465097
+      "size": 48682,
+      "date": 132454483426712230
     }
   ]
 }
