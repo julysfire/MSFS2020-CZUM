@@ -46,14 +46,25 @@ For the Steam edition:
 ## Screenshots
 
 ![Cover](Screenshots/cover.PNG)
+
 ![Screen1](Screenshots/d1.PNG)
+
 ![Screen2](Screenshots/d2.PNG)
+
 ![Screen3](Screenshots/d3.PNG)
+
 ![Screen4](Screenshots/d4.PNG)
+
 ![Screen5](Screenshots/d5.PNG)
+
 ![Screen6](Screenshots/d6.PNG)
+
 ![Screen7](Screenshots/d7.PNG)
+
 ![Screen8](Screenshots/d8.PNG)
+
+![Screen9](Screenshots/d9.PNG)
+
 
 More in the Screenshots folder!
 
