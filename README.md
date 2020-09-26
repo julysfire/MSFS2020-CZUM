@@ -63,7 +63,7 @@ For the Steam edition:
 
 ![Screen8](Screenshots/d8.PNG)
 
-![Screen9](Screenshots/d9.PNG)
+![Screen9](Screenshots/5.PNG)
 
 
 More in the Screenshots folder!
