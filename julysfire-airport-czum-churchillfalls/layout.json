@@ -1,29 +1,34 @@
 {
   "content": [
     {
+      "path": "ContentInfo/julysfire-airport-czum-churchillfalls/Thumbnail.jpg",
+      "size": 20102,
+      "date": 132531689510476311
+    },
+    {
       "path": "scenery/global/modelLibCZUM/modelLibCZUM.BGL",
       "size": 1202990,
-      "date": 132485947646776275
+      "date": 132531689956537773
     },
     {
       "path": "scenery/global/modelLibCZUM/TEXTURE/CZUMCOLOR.PNG.DDS",
       "size": 89478640,
-      "date": 132485947645184825
+      "date": 132531689956097371
     },
     {
       "path": "scenery/global/modelLibCZUM/TEXTURE/CZUMCOLOR.PNG.DDS.json",
       "size": 119,
-      "date": 132485947644304015
+      "date": 132531689955186546
     },
     {
       "path": "scenery/world/sceneCZUM/CZUMPOLYS.BGL",
       "size": 88808,
-      "date": 132485947654580635
+      "date": 132531689963864039
     },
     {
       "path": "scenery/world/sceneCZUM/objects.bgl",
       "size": 48934,
-      "date": 132485947647607026
+      "date": 132531689957298471
     }
   ]
 }
