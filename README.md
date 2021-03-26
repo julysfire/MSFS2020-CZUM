@@ -17,6 +17,15 @@ Wikipedia: <https://en.wikipedia.org/wiki/Churchill_Falls_Airport>
 
 Google Maps: <https://goo.gl/maps/2PuGdBuHHEBfbZ7o9>
 
+### Release Notes
+
+Release: V1.1
+
+- Corrected Windsock direction
+- Corrected Runway and taxiway lighting
+- Corrected some clipping textures
+- Added some further missing vegetation
+
 ##### Features
 
 - **Entire airport that is not currently in the base game**

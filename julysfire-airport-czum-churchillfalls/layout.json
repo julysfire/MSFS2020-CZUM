@@ -8,27 +8,27 @@
     {
       "path": "scenery/global/modelLibCZUM/modelLibCZUM.BGL",
       "size": 1202990,
-      "date": 132531689956537773
+      "date": 132612561309907113
     },
     {
       "path": "scenery/global/modelLibCZUM/TEXTURE/CZUMCOLOR.PNG.DDS",
       "size": 89478640,
-      "date": 132531689956097371
+      "date": 132612561307618124
     },
     {
       "path": "scenery/global/modelLibCZUM/TEXTURE/CZUMCOLOR.PNG.DDS.json",
       "size": 119,
-      "date": 132531689955186546
+      "date": 132612561306707086
     },
     {
       "path": "scenery/world/sceneCZUM/CZUMPOLYS.BGL",
-      "size": 88808,
-      "date": 132531689963864039
+      "size": 86116,
+      "date": 132612561314804338
     },
     {
       "path": "scenery/world/sceneCZUM/objects.bgl",
       "size": 48934,
-      "date": 132531689957298471
+      "date": 132612561310644185
     }
   ]
 }
