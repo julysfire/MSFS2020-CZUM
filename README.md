@@ -19,7 +19,7 @@ Google Maps: <https://goo.gl/maps/2PuGdBuHHEBfbZ7o9>
 
 ### Release Notes
 
-Release: V1.1
+Release: V1.3
 
 - Corrected Windsock direction
 - Corrected Runway and taxiway lighting
