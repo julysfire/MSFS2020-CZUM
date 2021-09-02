@@ -7,28 +7,28 @@
     },
     {
       "path": "scenery/global/modelLibCZUM/modelLibCZUM.BGL",
-      "size": 1202990,
-      "date": 132628378495748218
+      "size": 1203042,
+      "date": 132750915285031565
     },
     {
-      "path": "scenery/global/modelLibCZUM/TEXTURE/CZUMCOLOR.PNG.DDS",
+      "path": "scenery/global/modelLibCZUM/texture/CZUMCOLOR.PNG.DDS",
       "size": 89478640,
-      "date": 132628378495357863
+      "date": 132750915283790433
     },
     {
-      "path": "scenery/global/modelLibCZUM/TEXTURE/CZUMCOLOR.PNG.DDS.json",
+      "path": "scenery/global/modelLibCZUM/texture/CZUMCOLOR.PNG.DDS.json",
       "size": 119,
-      "date": 132628378494507093
+      "date": 132750915282819529
     },
     {
       "path": "scenery/world/sceneCZUM/czumpolys.bgl",
       "size": 86336,
-      "date": 132628378500492546
+      "date": 132750915286813185
     },
     {
       "path": "scenery/world/sceneCZUM/objects.bgl",
       "size": 48990,
-      "date": 132628378496348769
+      "date": 132750915285602081
     }
   ]
 }
