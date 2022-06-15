@@ -4,12 +4,12 @@
   "title": "Churchill Falls Airport",
   "manufacturer": "",
   "creator": "Julysfire",
-  "package_version": "1.4.1",
+  "package_version": "1.4.2",
   "minimum_game_version": "1.26.5",
   "release_notes": {
     "neutral": {
-      "LastUpdate": "VERSION 1.4.1 RELEASED JANUARY 1, 0\\n- Update to latest World Update (Update X)\n- Connected parking spots to path/runway (for use of guide tool)",
-      "OlderHistory": ""
+      "LastUpdate": "",
+      "OlderHistory": "VERSION 1.4.1 RELEASED JANUARY 1, 0\\n- Update to latest World Update (Update X)\n- Connected parking spots to path/runway (for use of guide tool)"
     }
   }
 }
