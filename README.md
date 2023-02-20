@@ -19,12 +19,10 @@ Google Maps: <https://goo.gl/maps/2PuGdBuHHEBfbZ7o9>
 
 ### Release Notes
 
-Release: V1.3
+Version 1.4.2 - June 15, 2022
 
-- Corrected Windsock direction
-- Corrected Runway and taxiway lighting
-- Corrected some clipping textures
-- Added some further missing vegetation
+- Update for World Update X
+- Connected parking/runway/taxiways for easy use with the guidelines
 
 ##### Features
 
