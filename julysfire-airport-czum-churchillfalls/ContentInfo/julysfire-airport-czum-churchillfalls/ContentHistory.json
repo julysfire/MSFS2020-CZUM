@@ -1,0 +1,10 @@
+{
+  "package-name": "julysfire-airport-czum-churchillfalls",
+  "items": [
+    {
+      "type": "Airport",
+      "content": "CZUM",
+      "revision": 1
+    }
+  ]
+}
